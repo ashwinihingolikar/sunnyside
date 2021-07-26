@@ -383,7 +383,16 @@ h3{
         display: block;
         padding:0;
     }
-
+  .background-1{
+        background-image: url(image-graphic-design-m.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    .background-2{
+        background-image: url(image-photography-m.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
 }
 
 @media  screen and (max-width:375px) {
