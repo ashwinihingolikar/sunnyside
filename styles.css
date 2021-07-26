@@ -390,14 +390,22 @@ h3{
     }
     .background-2{
         background-image: url(image-photography-m.jpg);
-        background-repeat: no-repeat;
-        background-size: 100%;
+  
     }
     .trans-box1{
         padding: 50px;
     }
     .heading2{
         font-size: 2rem;
+    }
+}
+@media  screen and (max-width:420){
+    .testimonial-sec{
+     text-align:center;
+        margin:20px 0;
+    }
+    .testimonial-heading{
+        font-size:2rem;
     }
 }
 
