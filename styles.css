@@ -393,6 +393,12 @@ h3{
         background-repeat: no-repeat;
         background-size: 100%;
     }
+    .trans-box1{
+        padding: 50px;
+    }
+    .heading2{
+        font-size: 2rem;
+    }
 }
 
 @media  screen and (max-width:375px) {
