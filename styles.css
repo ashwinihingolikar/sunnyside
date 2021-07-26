@@ -399,6 +399,9 @@ h3{
     .heading2{
         font-size: 2rem;
     }
+    .testimonial-heading {
+        margin: 0;
+    }
 }
 
 @media  screen and (max-width:375px) {
