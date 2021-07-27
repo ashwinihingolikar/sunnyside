@@ -407,6 +407,17 @@ h3{
     .testimonial-heading{
         font-size:2rem;
     }
+    .trans-box-3{
+        height: 600px;
+    }
+    .background-1{
+        background-image: url(image-graphic-design-m.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    .background-2{
+        background-image: url(image-photography-m.jpg);
+    }
 }
 
 @media  screen and (max-width:375px) {
@@ -422,17 +433,7 @@ h3{
     .heading2{
         font-size: 2rem;
     }
-    .trans-box-3{
-        height: 600px;
-    }
-    .background-1{
-        background-image: url(image-graphic-design-m.jpg);
-        background-repeat: no-repeat;
-        background-size: 100%;
-    }
-    .background-2{
-        background-image: url(image-photography-m.jpg);
-    }
+    
     .testimonial-sec{
         text-align: center;
         margin: 30px 0 0 0;
